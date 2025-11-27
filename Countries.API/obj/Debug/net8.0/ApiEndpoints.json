@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Countries.API.V1.Controllers.CountriesController",
+    "Method": "Get",
+    "RelativePath": "api/v1/countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Countries.API.V2.Controllers.CountriesController",
+    "Method": "Get",
+    "RelativePath": "api/v2/countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
