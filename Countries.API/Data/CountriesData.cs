@@ -21,6 +21,7 @@ namespace Countries.API.Data
                 new { Id = 11, Name = "Nigeria"},
                 new { Id = 12, Name = "Australia"},
                 new { Id = 13, Name = "Russia"},
+                new { Id = 14, Name = "Ghana"},
         };
 
             return countries.Select(c => new Country { Id = c.Id, Name = c.Name }).ToList();
